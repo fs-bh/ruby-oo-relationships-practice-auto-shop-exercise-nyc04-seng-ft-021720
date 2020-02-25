@@ -24,3 +24,5 @@ p 'All mechanics Dave uses:'
 p 'All mechanics Michelle uses:'
 	p michelle.cars
 	p "\n"
+
+p 'Average amount of calls '
